@@ -47,8 +47,7 @@ values and descriptions given in McClelland & Rumelhart (1981).
 </p>
 
 **Note**: Because letter–letter inhibition is zero, the activation time course of the
-letter d in this implementation does not dip as far below zero as in some
-secondary reproductions. The overall qualitative pattern, however, matches the
+letter d in this implementation does not dip as far below zero. The overall qualitative pattern, however, matches the
 original IA model description:
 - <p float="left">
   <img src="assets/IA_1981_Fig5_WORK.png" width="380" alt="IA 1981 Fig 5">
