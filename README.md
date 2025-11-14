@@ -1,6 +1,6 @@
 # IA-1981 IAC Letter Perception (Simbrain workspace)
 
-> A minimal, runnable replication of the classic **Interactive Activation** (IA) model demonstration in McClelland & Rumelhart (1981), focusing on the “WORK” example (word superiority effect).
+> A minimal, runnable replication of the classic **Interactive Activation** (IA) model demonstration in McClelland & Rumelhart (1981), focusing on the “WORK” example.
 
 - **Simulator**: [Simbrain](https://simbrain.net) • Source: [github.com/simbrain/simbrain](https://github.com/simbrain/simbrain)
 - **Version used here**: Simbrain 3.07, Mac (Apple Silicon)
