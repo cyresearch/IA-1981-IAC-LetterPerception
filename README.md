@@ -35,8 +35,7 @@
 competitors (WEAK, WEAR, GILL) remain suppressed.
 - 
 - At the letter level, letters consistent with the word and position show
-higher activation, reproducing the word superiority effect qualitatively
-similar to Fig. 6 in the paper.
+higher activation, qualitatively similar to Fig. 6 in the paper.
 
 ## Notes on parameters
 
@@ -46,9 +45,6 @@ values and descriptions given in McClelland & Rumelhart (1981).
    <img src="assets/IA_1981_Table1_ParameterValues.png" width="500" alt="IA 1981 Table 1">
 </p>
 
-**Note**: Because letter–letter inhibition is zero, the activation time course of the
-letter d in this implementation does not dip as far below zero. The overall qualitative pattern, however, matches the
-original IA model description:
 - <p float="left">
   <img src="assets/IA_1981_Fig5_WORK.png" width="380" alt="IA 1981 Fig 5">
   <img src="assets/IA_1981_Fig6_Word&LetterActivations.png" width="380" alt="IA 1981 Fig 6">
